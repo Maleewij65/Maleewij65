@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maleewij65" alt="maleewij65" /></a> </p>
 
-- 🌱 I’m currently learning **Software engineering in SLIIT**
+- 🌱 I’m currently learning **Software engineering at SLIIT**
 
 - 📫 How to reach me **maleeshawijerathne@gmail.com**
 
