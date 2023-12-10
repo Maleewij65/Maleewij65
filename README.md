@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Maleesha Wijerathne</h1>
 <h3 align="center">IT Student | Embarking on the Endless Frontiers of Innovation.</h3>
