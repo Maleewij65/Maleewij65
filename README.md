@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Maleesha Wijerathne</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate IT Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maleewij65&label=Profile%20views&color=0e75b6&style=flat" alt="maleewij65" /> </p>
 
