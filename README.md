@@ -18,7 +18,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="[[[https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://img.freepik.com/premium-photo/programming-languages-tech-purple-background-with-code-elements-lines-light_272306-166.jpg)](https://i.pcmag.com/imagery/articles/00l8p1iqqfNP3HRG3TtTgXl-1.fit_lim.v1587974089.jpg)](https://img.freepik.com/free-photo/programming-background-concept_23-2150170123.jpg)">
+  <img align="center" alt="Coding" width="450" src="[[[[https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://img.freepik.com/premium-photo/programming-languages-tech-purple-background-with-code-elements-lines-light_272306-166.jpg)](https://i.pcmag.com/imagery/articles/00l8p1iqqfNP3HRG3TtTgXl-1.fit_lim.v1587974089.jpg)](https://img.freepik.com/free-photo/programming-background-concept_23-2150170123.jpg)](https://www.springboard.com/blog/wp-content/uploads/2022/06/coding.png)">
 
   
   </td>
