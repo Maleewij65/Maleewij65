@@ -1,4 +1,4 @@
-
+<p align="center" ><img  src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fwoman-laptop&psig=AOvVaw2lJcsYakURN0HXw4iUXnkU&ust=1702287429273000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDD94TJhIMDFQAAAAAdAAAAABAD" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Maleesha Wijerathne</h1>
 <h3 align="center">IT Student | Embarking on the Endless Frontiers of Innovation.</h3>
 
