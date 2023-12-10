@@ -7,9 +7,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maleewij65" alt="maleewij65" /></a> </p>
 
+---
 - 🌱 I’m currently learning **Web development , project management**
 
-- 👩‍🎓 I’m an Undergraduate **at SLIIT**
+- 👩‍🎓 I’m an undergraduate **at SLIIT**
 
 - 💬 Ask me about **Java**
 
