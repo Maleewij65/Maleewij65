@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Maleesha Wijerathne</h1>
 <h3 align="center">IT Student | Embarking on the Endless Frontiers of Innovation.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maleewij65&label=Profile%20views&color=0e75b6&style=flat" alt="maleewij65" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maleewij65&label=Profile%20views&color=0e75b6&style=flat" alt="maleewij65" /> </p>
 
 
 ---
