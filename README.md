@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Software engineering at SLIIT**
 
-- 📫 How to reach me **maleeshawijerathne@gmail.com**
+- 📫 How to reach me **maleeshawijerathne65@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
