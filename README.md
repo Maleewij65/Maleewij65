@@ -4,12 +4,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maleewij65&label=Profile%20views&color=0e75b6&style=flat" alt="maleewij65" /> </p>
 
-
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-
-
+  
 - 🌱 I’m currently learning **Web development , project management**
 
 - 👩‍🎓 I’m an undergraduate **at SLIIT**
@@ -17,8 +15,16 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **maleeshawijerathne65@gmail.com**
-
 </td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="[https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://img.freepik.com/premium-photo/programming-languages-tech-purple-background-with-code-elements-lines-light_272306-166.jpg)">
+
+  
+  </td>
+</tr>
+</table>
+
 
   
 
