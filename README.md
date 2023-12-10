@@ -5,7 +5,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maleewij65&label=Profile%20views&color=0e75b6&style=flat" alt="maleewij65" /> </p>
 
 
----
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
+
 - 🌱 I’m currently learning **Web development , project management**
 
 - 👩‍🎓 I’m an undergraduate **at SLIIT**
@@ -13,6 +17,10 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **maleeshawijerathne65@gmail.com**
+
+</td>
+
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
