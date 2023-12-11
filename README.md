@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently learning **Web development , project management**
 
-- 👩‍🎓 I’m an undergraduate **at SLIIT**
+- 👩‍🎓 I’m an 2nd year undergraduate **at SLIIT**
 
 - 💬 Ask me about **Java**
 
