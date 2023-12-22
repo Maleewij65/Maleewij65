@@ -30,9 +30,17 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maleewij65&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Maleewij65&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
- <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Maleewij65&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Maleewij65&theme=dark&hide_border=false" /> 
+
+
+
+
+
+
+
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+
+
 
 
 
