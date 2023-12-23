@@ -30,12 +30,6 @@
 
 
 
-  
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Maleewij65&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
-
-
 
   
 
