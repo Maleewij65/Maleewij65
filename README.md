@@ -30,21 +30,6 @@
 
 
 
-
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Maleewij65&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
   
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Maleewij65&theme=discord&no-frame=false&no-bg=false&margin-w=4)
