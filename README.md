@@ -12,8 +12,6 @@
 
 - 👩‍🎓 I’m an 2nd year undergraduate **at SLIIT**
 
-- 💬 Ask me about **Java**
-
 - 📫 How to reach me **maleeshawijerathne65@gmail.com**
 </td>
 <td width="50%" align="center">
