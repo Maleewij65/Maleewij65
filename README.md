@@ -31,6 +31,20 @@
 
 
 
+
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melxincognito&layout=compact&theme=radical&hide=swift,c%23)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
   
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Maleewij65&theme=discord&no-frame=false&no-bg=false&margin-w=4)
