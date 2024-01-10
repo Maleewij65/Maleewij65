@@ -24,9 +24,9 @@
 </table>
 
 
- ![Maleesha's github stats](https://github-readme-stats.vercel.app/api?username=Maleewij65&show_icons=true&theme=tokyonight) ![Maleesha GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maleewij65&theme=tokyonight) <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maleewij65&layout=compact&theme=radical&hide=swift,c%23)](https://github.com/anuraghazra/github-readme-stats) 
+| ![Maleesha's github stats](https://github-readme-stats.vercel.app/api?username=Maleewij65&show_icons=true&theme=tokyonight) | ![Maleesha GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maleewij65&theme=tokyonight) |
+| --- | --- |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maleewij65&layout=compact&theme=radical&hide=swift,c%23)](https://github.com/anuraghazra/github-readme-stats) |
 
 
 
