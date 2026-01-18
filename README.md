@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently learning **Web development , project management**
 
-- 👩‍🎓 I’m a 3rd year undergraduate **at SLIIT**
+- 👩‍🎓 I’m a 4th year undergraduate **at SLIIT**
 
 - 📫 How to reach me **maleeshawijerathne65@gmail.com**
 </td>
